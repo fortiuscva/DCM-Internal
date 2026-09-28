@@ -1,7 +1,8 @@
 {
   "id": "f7c8fb10-f4b4-4fb0-9dc0-5859caef1193",
-  "name": "Tomahawk Internal",
-  "publisher": "Tomahawk Manufacturing Inc",
+  "name": "DCM Internal",
+  "publisher": "DCM-OC",
+  "description": "This is Tomahawk Internal App and created as DCM Internal App. This app should be maintained independent for DCM",
   "version": "1.0.0.48",
   "runtime": "12.0",
   "target": "Cloud",
