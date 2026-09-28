@@ -1,0 +1,60 @@
+{
+  "id": "f7c8fb10-f4b4-4fb0-9dc0-5859caef1193",
+  "name": "Tomahawk Internal",
+  "publisher": "Tomahawk Manufacturing Inc",
+  "version": "1.0.0.47",
+  "runtime": "12.0",
+  "target": "Cloud",
+  "application": "23.0.0.0",
+  "platform": "28.0.54688.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "dependencies": [
+    {
+      "id": "14227680-1323-40fa-abfc-1dde7fd075da",
+      "name": "Tomahawk Enhancement McD",
+      "version": "24.0.0.129",
+      "publisher": "McD"
+    },
+    {
+      "id": "0c330286-a3eb-43ce-9e77-2b0d310eb1a3",
+      "name": "Pop-Up Notes",
+      "version": "2.0.1.8",
+      "publisher": "Cost Control Software"
+    },
+    {
+      "id": "f8750ab4-1d72-455d-b773-5b487a0ac106",
+      "name": "Lanham E-Ship and E-Receive",
+      "version": "25.1.18.4",
+      "publisher": "Lanham Associates"
+    },
+    {
+      "id": "d63e22fb-c371-4232-9870-9b6cbedcb3db",
+      "name": "Tomahawk Customizations",
+      "version": "25.0.0.73",
+      "publisher": "THK-OC"
+    },
+    {
+      "id": "d359ecc0-11e9-4b16-823e-a3cb28604977",
+      "name": "History and Statistics",
+      "version": "24.0.241204.1",
+      "publisher": "ERP Connect Consulting LLC"
+    },
+    {
+      "id": "c526b3e9-b8ca-4683-81ba-fcd5f6b1472a",
+      "name": "Sales and Inventory Forecast",
+      "version": "25.1.25873.26186",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 51401,
+      "to": 61401
+    }
+  ]
+}
