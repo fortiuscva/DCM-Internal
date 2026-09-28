@@ -3,7 +3,7 @@
   "name": "DCM Internal",
   "publisher": "DCM-OC",
   "description": "This is Tomahawk Internal App and created as DCM Internal App. This app should be maintained independent for DCM",
-  "version": "1.0.0.48",
+  "version": "1.0.0.49",
   "runtime": "12.0",
   "target": "Cloud",
   "application": "23.0.0.0",
